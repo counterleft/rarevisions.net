@@ -1,4 +1,3 @@
-rarevisions.net
-===============
+# rareVisions
 
-rarevisions.net website
+software craftsmenship
